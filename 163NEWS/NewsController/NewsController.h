@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NewsController.h
 //  163NEWS
 //
 //  Created by dongjiangpeng on 16/1/26.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITabBarController
-
+@interface NewsController : UIViewController
 
 @end
-

@@ -1,0 +1,15 @@
+//
+//  NewsPrefixHeader.pch
+//  163NEWS
+//
+//  Created by dongjiangpeng on 16/1/26.
+//  Copyright © 2016年 dongjiangpeng. All rights reserved.
+//
+
+#ifndef NewsPrefixHeader_pch
+#define NewsPrefixHeader_pch
+
+#import "JPDefine.h"
+
+
+#endif /* NewsPrefixHeader_pch */
